@@ -1,3 +1,10 @@
+"""
+This script is from spaces:facebook/seamless-m4t-v2-large with slight modifications 
+to fit the entire (speech2text,text2text and text2speech) pipeline with common language support
+for these 3 tasks. Further, this is used for adding a voice enabled feature in the existing 
+'fastchat/serve/gradio_web_server.py'
+"""
+
 from __future__ import annotations
 
 import gradio as gr
