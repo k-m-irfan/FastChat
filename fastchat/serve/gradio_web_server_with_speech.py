@@ -1,5 +1,5 @@
 """
-The gradio demo server for chatting with a single model. (Added Speech Support)
+The gradio demo server for chatting with a single model. (Added Speech Support on the existing gradio_web_server.py)
 """
 
 import argparse
